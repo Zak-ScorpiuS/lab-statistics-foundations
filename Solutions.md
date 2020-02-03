@@ -1,6 +1,7 @@
 ### Challenge 1
 One player rolls two dices. Describe the measurable space and the random variable for:
 * A. The values that the player obtains.
+
 * B. The sum of the values obtained.
 * C. The maximum value obtained after rolling both dices.
 
