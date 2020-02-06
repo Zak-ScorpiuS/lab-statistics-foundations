@@ -1,14 +1,20 @@
 ### Challenge 1
 One player rolls two dices. Describe the measurable space and the random variable for:
 * A. The values that the player obtains.
-
+    measurable space = (d1, d2): d1, d2 € {1,2,3,4,5,6}
 * B. The sum of the values obtained.
 * C. The maximum value obtained after rolling both dices.
+ask ta
 
 Describe the following events:
 * Case A: Both values are greater than 5.
+    (2/36) = (1/18)
+
 * Case B: The sum of values is even.
+    (18/36) = (1/2)
+
 * Case C: The maximum is the value of both rolls.
+    P
 
 ### Challenge 2
 One player picks two cards from a poker deck. Describe the measurable space and the random variable for:
